@@ -1,0 +1,39 @@
+{
+    "name": "ADC evaluation form",
+    "short_name": "ADC evaluation form",
+    "start_url": "/",
+    "theme_color": "#434648",
+    "background_color": "#fff",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/icons/96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "/icons/screen.png",
+            "sizes": "480x800",
+            "type": "image/png",
+            "form_factor": "square"
+        },
+        {
+            "src": "/icons/screenland.png",
+            "sizes": "800x480",
+            "type": "image/png",
+            "form_factor": "wide"
+        }
+    ]
+}

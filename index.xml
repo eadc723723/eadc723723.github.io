@@ -1,0 +1,2755 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on JPJ Evaluantion Form</title>
+    <link>https://eadc723723.github.io/</link>
+    <description>Recent content in Home on JPJ Evaluantion Form</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://eadc723723.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Table of content</title>
+      <link>https://eadc723723.github.io/posts/table-of-content/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://eadc723723.github.io/posts/table-of-content/</guid>
+      
+      <description>&lt;h2 id=&#34;table-of-content&#34;&gt;Table of content&lt;/h2&gt;
+&lt;p&gt;This theme supports displaying table of content (ToC) in blog posts.&lt;/p&gt;
+&lt;h2 id=&#34;parameters&#34;&gt;Parameters&lt;/h2&gt;
+&lt;p&gt;You can manage a ToC with two parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;global &lt;code&gt;toc&lt;/code&gt; parameter;&lt;/li&gt;
+&lt;li&gt;post &lt;code&gt;toc&lt;/code&gt; parameter.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The post &lt;code&gt;toc&lt;/code&gt; parameter has higher priority than the global &lt;code&gt;toc&lt;/code&gt; parameter.&lt;/p&gt;
+&lt;h2 id=&#34;enable-table-of-content-on-all-posts&#34;&gt;Enable table of content on all posts&lt;/h2&gt;
+&lt;p&gt;To enable ToC on all posts (globally) set parameter &lt;code&gt;toc&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in &lt;code&gt;hugo.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;params&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;nx&#34;&gt;toc&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;true&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To disable ToC globally, simply ignore the &lt;code&gt;toc&lt;/code&gt; parameter or set it to &lt;code&gt;false&lt;/code&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Math Typesetting - use Mathematical notation in blog posts</title>
+      <link>https://eadc723723.github.io/posts/math-typesetting/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://eadc723723.github.io/posts/math-typesetting/</guid>
+      
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using
+&lt;a href=&#34;https://github.com/hugo-sid/hugo-blog-awesome/blob/main/layouts/partials/helpers/katex.html&#34;&gt;third party JavaScript libraries&lt;/a&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://eadc723723.github.io/posts/markdown-syntax/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://eadc723723.github.io/posts/markdown-syntax/</guid>
+      
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://eadc723723.github.io/posts/rich-content/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://eadc723723.github.io/posts/rich-content/</guid>
+      
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://eadc723723.github.io/posts/placeholder-text/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://eadc723723.github.io/posts/placeholder-text/</guid>
+      
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://eadc723723.github.io/posts/emoji-support/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://eadc723723.github.io/posts/emoji-support/</guid>
+      
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://eadc723723.github.io/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eadc723723.github.io/pages/about/</guid>
+      
+      <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;&gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
+&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/yuin/goldmark&#34;&gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/alecthomas/chroma&#34;&gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/muesli/smartcrop&#34;&gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Class B2/B</title>
+      <link>https://eadc723723.github.io/pages/classb-b2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eadc723723.github.io/pages/classb-b2/</guid>
+      
+      <description>&lt;div class=&#34;container&#34;&gt;
+
+  &lt;!-- Language Toggle --&gt;
+  &lt;div class=&#34;field is-grouped is-grouped-left container&#34;&gt;
+    &lt;div class=&#34;control&#34;&gt;
+      &lt;button class=&#34;button is-primary is-outlined&#34; id=&#34;toggle-language&#34;&gt;English&lt;/button&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;!-- Dropdown Menu --&gt;
+  &lt;div class=&#34;select&#34;&gt;
+    &lt;select id=&#34;section-dropdown&#34; onchange=&#34;toggleSection(this.value)&#34;&gt;
+      &lt;!-- Options will be dynamically updated by JavaScript --&gt;
+    &lt;/select&gt;
+  &lt;/div&gt;
+
+  &lt;!-- Section Containers --&gt;
+  &lt;div id=&#34;section-a&#34; class=&#34;section-content hidden&#34;&gt;
+    &lt;h2 data-en=&#34;A. Safety Clothing / Equipment&#34; data-my=&#34;A. Pakaian / Peralatan Keselamatan&#34;&gt;&lt;/h2&gt;
+
+    &lt;table&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;Not wearing a reflective jacket&#34; data-my=&#34;Tidak memakai baju pemantul cahaya&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;Not wearing appropriate clothing&#34; data-my=&#34;Tidak memakai pakaian yang sesuai&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;Not wearing suitable shoes&#34; data-my=&#34;Tidak memakai kasut yang sesuai&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;Not wearing the helmet correctly&#34; data-my=&#34;Tidak memakai topi keledar dengan betul&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td data-en=&#34;Not fastening the helmet strap securely&#34; data-my=&#34;Tidak Mengikat tali topi keledar dengan kemas&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;6&lt;/td&gt;
+        &lt;td data-en=&#34;Not wearing a helmet&#34; data-my=&#34;Tidak memakai topi keledar&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/div&gt;
+
+  &lt;div id=&#34;section-b&#34; class=&#34;section-content hidden&#34;&gt;
+    &lt;h2 data-en=&#34;B. Motorcycle Inspection Routine&#34; data-my=&#34;B. Rutin Pemeriksaan Motosikal&#34;&gt;&lt;/h2&gt;
+
+    &lt;table&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;Did not check fuel and tank cap&#34; data-my=&#34;Tidak memeriksa petrol dan penutup tangki&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;Did not check tires (pressure/tread/physical condition)&#34; data-my=&#34;Tidak memeriksa tayar (tekanan angin/ bunga/ fizikal)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;Did not check side mirrors&#34; data-my=&#34;Tidak memeriksa cermin sisi&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;Did not check all front lights&#34; data-my=&#34;Tidak memeriksa semua lampu depan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td data-en=&#34;Did not check all front signal lights&#34; data-my=&#34;Tidak memeriksa semua lampu isyarat depan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;6&lt;/td&gt;
+        &lt;td data-en=&#34;Did not check all rear signal lights&#34; data-my=&#34;Tidak memeriksa semua lampu isyarat belakang&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;7&lt;/td&gt;
+        &lt;td data-en=&#34;Did not check all rear lights&#34; data-my=&#34;Tidak memeriksa semua lampu belakang&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;8&lt;/td&gt;
+        &lt;td data-en=&#34;Did not check the license plate&#34; data-my=&#34;Tidak memeriksa plat pendaftaran&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;9&lt;/td&gt;
+        &lt;td data-en=&#34;Did not check engine oil&#34; data-my=&#34;Tidak memeriksa minyak enjin&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;10&lt;/td&gt;
+        &lt;td data-en=&#34;Did not check battery&#34; data-my=&#34;Tidak memeriksa bateri&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;11&lt;/td&gt;
+        &lt;td data-en=&#34;Did not check chain&#34; data-my=&#34;Tidak memeriksa rantai&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;12&lt;/td&gt;
+        &lt;td data-en=&#34;Did not check motorcycle documents&#34; data-my=&#34;Tidak memeriksa dokumen motosikal&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;13&lt;/td&gt;
+        &lt;td data-en=&#34;Did not check tools&#34; data-my=&#34;Tidak memeriksa perkakasan (tools)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;14&lt;/td&gt;
+        &lt;td data-en=&#34;Did not perform inspection within the allotted time of 5 minutes&#34; data-my=&#34;Tidak melakukan pemeriksaan dalam masa yang ditetapkan lima (5) minit&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/div&gt;
+
+  &lt;section id=&#34;section-c&#34; class=&#34;section-content hidden&#34;&gt;
+    &lt;h2 data-en=&#34;C. Pre-Departure Inspection&#34; data-my=&#34;C. Pemeriksaan Sebelum Memulakan Perajalan&#34;&gt;&lt;/h2&gt;
+
+    &lt;table&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;Did not check brakes&#34; data-my=&#34;Tidak memeriksa brek&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;Did not adjust side mirrors&#34; data-my=&#34;Tidak melaraskan cermin sisi&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;Did not check tuning key&#34; data-my=&#34;Tidak memeriksa kunci penalaan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;Did not check instrument panel&#34; data-my=&#34;Tidak memeriksa panel instrumen&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td data-en=&#34;Did not check all front, rear, signal lights, and horn&#34; data-my=&#34;Tidak memeriksa semua lampu depan, belakang, isyarat dan hon&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;6&lt;/td&gt;
+        &lt;td data-en=&#34;Did not disengage gear, start the engine, and turn it off correctly&#34; data-my=&#34;Tidak membebaskan gear, menghidupkan enjin dan mematikan enjin dengan betul&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;7&lt;/td&gt;
+        &lt;td data-en=&#34;Did not move the motorcycle forward correctly and safely&#34; data-my=&#34;Menggerakkan motosikal ke hadapan dengan betul dan selamat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;8&lt;/td&gt;
+        &lt;td data-en=&#34;Did not secure the motorcycle stand properly (side/center)&#34; data-my=&#34;Tidak menongkat motosikal dengan selamat (tepi/tengah)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;9&lt;/td&gt;
+        &lt;td data-en=&#34;Did not complete the inspection within the allotted time of 3 minutes&#34; data-my=&#34;Tidak memeriksa pemeriksaan dalam masa yang ditetapkan tiga (3) minit&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/section&gt;
+
+  &lt;section id=&#34;section-d&#34; class=&#34;section-content hidden&#34;&gt;
+    &lt;h2 data-en=&#34;D. Riding on the Plank (Except for License Class A/C)&#34; data-my=&#34;D. Menunggang Di atas Titi Kecuali Kelas Lesen A/C&#34;&gt;&lt;/h2&gt;
+
+    &lt;!-- Non-Mandatory Items --&gt;
+    &lt;table&gt;
+      &lt;caption data-en=&#34;Stop and Honk Before Test&#34; data-my=&#34;Berhenti dan Membunyikan Hon Sebelum Ujian&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;Failing to properly disengage the kickstand&#34; data-my=&#34;Tidak membebaskan tongkat dengan sempurna&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;Failing to practice safe routines&#34; data-my=&#34;Tidak amalkan rutin selamat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;Failing to sit and place feet on the motorcycle footrests&#34; data-my=&#34;Tidak duduk dan meletakkan kaki di atas pemijak motosikal&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+
+    &lt;!-- Mandatory Items --&gt;
+    &lt;table&gt;
+      &lt;caption data-en=&#34;MANDATORY&#34; data-my=&#34;MANDATORI&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Failing to complete the maneuver within seven (7) seconds&#34; data-my=&#34;(M) Tidak melakukan pergerakan melebihi tujuh (7) saat.&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Failing to keep the wheel on the plank&#34; data-my=&#34;(M) Roda tidak berada di atas titi&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Failing to keep feet off the plank or road&#34; data-my=&#34;(M) Kaki tidak mencecah titi/ memijak jalan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Failing to ride in the designated lane&#34; data-my=&#34;(M) Tidak menunggang di laluan yang ditetapkan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/section&gt;
+
+  &lt;section id=&#34;section-e&#34; class=&#34;section-content hidden&#34;&gt;
+    &lt;h2 data-en=&#34;E. Slalom Riding (SLALOM)&#34; data-my=&#34;E. Menunggang Rintangan Amara Kon (SLALOM)&#34;&gt;&lt;/h2&gt;
+
+    &lt;!-- Non-Mandatory Items --&gt;
+    &lt;table&gt;
+      &lt;caption data-en=&#34;Stop and Honk Before Test&#34; data-my=&#34;Berhenti dan Membunyikan Hon Sebelum Memulakan Ujian&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;Failing to practice safe routines&#34; data-my=&#34;Tidak amalkan rutin Selamat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;Failing to follow the correct route (right)&#34; data-my=&#34;Tidak mengikut arah laluan yang betul (kanan)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;Failing to sit and place feet on the motorcycle footrests&#34; data-my=&#34;Tidak duduk dan meletakkan kaki di atas pemijak motosikal&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+
+    &lt;!-- Mandatory Items --&gt;
+    &lt;table&gt;
+      &lt;caption data-en=&#34;MANDATORY&#34; data-my=&#34;MANDATORI&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Failing to stop between cones&#34; data-my=&#34;(M) Tidak berhenti antara kon&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Hitting or touching cones or barriers&#34; data-my=&#34;(M) Tidak melanggar/ menyentuh kon atau benteng&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Failing to pass through all the cones provided&#34; data-my=&#34;(M) Tidak melalui kesemua laluan kon yang disediakan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Failing to keep feet off the road&#34; data-my=&#34;(M) Kaki tidak mencecah/ memijak jalan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/section&gt;
+
+  &lt;section id=&#34;section-f&#34; class=&#34;section-content hidden&#34;&gt;
+    &lt;h2 data-en=&#34;F. Emergency Braking Score&#34; data-my=&#34;F. Brek Kecemasan Markah&#34;&gt;&lt;/h2&gt;
+
+    &lt;!-- Non-Mandatory Items --&gt;
+    &lt;table&gt;
+      &lt;caption data-en=&#34;Stop and Honk Before Test&#34; data-my=&#34;Berhenti dan Membunyikan Hon Sebelum Memulakan Ujian&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;Failing to practice safe routines&#34; data-my=&#34;Tidak amalkan rutin selamat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;Failing to brake within the designated area&#34; data-my=&#34;Tidak membrek dalam petak yang ditetapkan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;Failing to lower the left foot first&#34; data-my=&#34;Tidak menjatuhkan kaki kiri dahulu&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;Failing to use both front and rear brakes&#34; data-my=&#34;Tidak menggunakan brek depan dan belakang&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+
+    &lt;!-- Mandatory Items --&gt;
+    &lt;table&gt;
+      &lt;caption data-en=&#34;MANDATORY&#34; data-my=&#34;MANDATORI&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Failing to stop within the designated area&#34; data-my=&#34;(M) Tidak berhenti dalam petak yang ditetapkan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Motorcycle falls&#34; data-my=&#34;(M) Motosikal jatuh&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Time taken is less than 6 seconds&#34; data-my=&#34;(M) Masa yang ditetapkan kurang dari 6 saat.&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Motorcycle hits a barrier&#34; data-my=&#34;(M) Motosikal melanggar benteng&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/section&gt;
+
+  &lt;section id=&#34;section-g&#34; class=&#34;section-content hidden&#34;&gt;
+    &lt;h2 data-en=&#34;G. Riding on Uneven Surfaces (Except for License Class A/C)&#34; data-my=&#34;G. Menunggang Di Laluan Tidak Rata Kecuali Kelas Lesen A/C&#34;&gt;&lt;/h2&gt;
+
+    &lt;!-- Non-Mandatory Items --&gt;
+    &lt;table&gt;
+      &lt;caption data-en=&#34;Stop and Honk Before Test&#34; data-my=&#34;Berhenti dan Membunyikan Hon Sebelum Memulakan Ujian&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;Failing to practice safe routines&#34; data-my=&#34;Tidak amalkan rutin selamat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;Failing to sit and place feet on the motorcycle footrests&#34; data-my=&#34;Tidak duduk dan meletakkan kaki di atas pemijak motosikal&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+
+    &lt;!-- Mandatory Items --&gt;
+    &lt;table&gt;
+      &lt;caption data-en=&#34;MANDATORY&#34; data-my=&#34;MANDATORI&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Failing to follow the designated route&#34; data-my=&#34;(M) Tidak mengikut laluan yang ditetapkan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Feet touching the road/bumps&#34; data-my=&#34;(M) Kaki mencecah/ memijak jalan/ bonggol&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Motorcycle hits a barrier&#34; data-my=&#34;(M) Motosikal melanggar benteng&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Failing to pass through all uneven sections&#34; data-my=&#34;(M) Tidak melalui semua laluan tidak rata&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Stopping between uneven sections&#34; data-my=&#34;(M) Berhenti antara laluan tidak rata&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/section&gt;
+
+  &lt;section id=&#34;section-h&#34; class=&#34;section-content hidden&#34;&gt;
+    &lt;h2 data-en=&#34;H. Performing Figure &#39;8&#39; Maneuver&#34; data-my=&#34;H. Membuat Pegerakan Angka &#39;8&#39;&#34;&gt;&lt;/h2&gt;
+
+    &lt;!-- Non-Mandatory Items --&gt;
+    &lt;table&gt;
+      &lt;caption data-en=&#34;Stop and Honk Before Test&#34; data-my=&#34;Berhenti dan Membunyikan Hon Sebelum Memulakan Ujian&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;Failing to practice safe routines&#34; data-my=&#34;Tidak amalkan Rutin Selamat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;Failing to sit and place feet on the motorcycle footrests&#34; data-my=&#34;Tidak duduk dan meletakkan kaki di atas pemijak motosikal&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+
+    &lt;!-- Mandatory Items --&gt;
+    &lt;table&gt;
+      &lt;caption data-en=&#34;MANDATORY&#34; data-my=&#34;MANDATORI&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Failing to complete one and a half sets of the designated maneuver&#34; data-my=&#34;(M) Tidak melengkapkan satu setengah kali pusingan yang ditetapkan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Entering the opposing direction path&#34; data-my=&#34;(M) Tidak memasuki laluan arah bertentangan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Feet touching the road/barrier&#34; data-my=&#34;(M) Kaki mencecah/ memijak jalan/ benteng&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Motorcycle hits a barrier&#34; data-my=&#34;(M) Motosikal melanggar benteng&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/section&gt;
+
+  &lt;div id=&#34;section-i&#34; class=&#34;section-content hidden&#34;&gt;
+    &lt;h2 data-en=&#34;I. Riding Through Sharp Corners&#34; data-my=&#34;I. Menunggang Di Selekoh Tajam&#34;&gt;&lt;/h2&gt;
+
+    &lt;!-- Non-Mandatory Items --&gt;
+    &lt;table&gt;
+      &lt;caption data-en=&#34;Stop and Honk Before Test&#34; data-my=&#34;Berhenti dan Membunyikan Hon Sebelum Memulakan Ujian&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;Failing to practice safe routines&#34; data-my=&#34;Tidak amalkan rutin selamat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;Failing to sit and place feet on the motorcycle footrests&#34; data-my=&#34;Tidak duduk dan meletakkan kaki di atas pemijak motosikal&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+
+    &lt;!-- Mandatory Items --&gt;
+    &lt;table&gt;
+      &lt;caption data-en=&#34;MANDATORY&#34; data-my=&#34;MANDATORI&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Motorcycle hits a barrier&#34; data-my=&#34;(M) Motosikal tidak melanggar benteng&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Failing to follow the designated path&#34; data-my=&#34;(M) Tidak mengikut laluan yang ditetapkan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Failing to stop before the white line&#34; data-my=&#34;(M) Tidak berhenti sebelum garisan putih&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Feet touching the road/barrier&#34; data-my=&#34;(M) Kaki mencecah/ memijak jalan/ benteng&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/div&gt;
+
+  &lt;div id=&#34;section-j&#34; class=&#34;section-content hidden&#34;&gt;
+    &lt;h2 data-en=&#34;J. Affective Scoring&#34; data-my=&#34;J. Afektif Markah&#34;&gt;&lt;/h2&gt;
+
+    &lt;!-- Mandatory Items --&gt;
+    &lt;table&gt;
+      &lt;caption data-en=&#34;MANDATORY&#34; data-my=&#34;MANDATORI&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Failure to control the motorcycle in a stable and safe manner&#34; data-my=&#34;(M) Tidak mengawal motosikal dengan stabil dan selamat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Involvement in an accident&#34; data-my=&#34;(M) Tidak terlibat dengan kemalangan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Accident could be avoided by the competency of another driver&#34; data-my=&#34;(M) Kemalangan dapat diletakkan oleh kecekapan pemandu lain&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Failure to obey traffic rules&#34; data-my=&#34;(M) Tidak mematuhi arahan-arahan lalulintas&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Failure to give priority to other road users&#34; data-my=&#34;(M) Tidak memberi keutamaan kepada pengguna jalan lain&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;6&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Feet touching the road/barrier&#34; data-my=&#34;(M) Kaki mencecah/ memijak jalan/ benteng&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;7&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Failure to wear a helmet&#34; data-my=&#34;(M) Tidak memakai topi keledar&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;8&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Failure to stop at an intersection&#34; data-my=&#34;(M) Tidak berhenti di persimpangan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;9&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Failure to follow lane markings&#34; data-my=&#34;(M) Tidak patuhi garisan selari&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;10&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Hitting a barrier&#34; data-my=&#34;(M) Langgar benteng&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;11&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Driving through the opposite lane&#34; data-my=&#34;(M) Melalui laluan bertentangan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/div&gt;
+
+  &lt;div id=&#34;section-iii&#34; class=&#34;section-content hidden&#34;&gt;
+    &lt;h2 data-en=&#34;Road Riding Test&#34; data-my=&#34;Laluan Jalan Raya&#34;&gt;&lt;/h2&gt;
+    &lt;!-- Main Items --&gt;
+    &lt;table&gt;
+      &lt;caption data-en=&#34;A. Clothing / Safety Equipment&#34; data-my=&#34;A. Pakaian / Peralatan Keselamatan&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;Not wearing reflective clothing&#34; data-my=&#34;Tidak memakai baju pemantul cahaya&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;Not wearing appropriate clothing&#34; data-my=&#34;Tidak memakai pakaian yang sesuai&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;Not wearing appropriate shoes&#34; data-my=&#34;Tidak memakai kasut yang sesuai&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;Not wearing a helmet properly&#34; data-my=&#34;Tidak memakai topi keledar dengan betul&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td data-en=&#34;Not fastening the helmet strap securely&#34; data-my=&#34;Tidak mengikat tali topi keledar dengan kemas&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;6&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Not wearing a helmet&#34; data-my=&#34;(M) Tidak memakai topi keledar&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+
+    &lt;!-- Main Items --&gt;
+    &lt;table&gt;
+      &lt;caption data-en=&#34;B. Pre-Trip Inspection&#34; data-my=&#34;B. Pemeriksaan Sebelum Memulakan Perjalanan&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;Not checking the tires&#34; data-my=&#34;Tidak memeriksa Tayar&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;Not checking all front lights&#34; data-my=&#34;Tidak memeriksa semua lampu depan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;Not checking the turn signals&#34; data-my=&#34;Tidak memeriksa lampu isyarat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;Not checking all rear lights&#34; data-my=&#34;Tidak memeriksa semua lampu belakang&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td data-en=&#34;Not checking the horn&#34; data-my=&#34;Tidak memeriksa hon&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;6&lt;/td&gt;
+        &lt;td data-en=&#34;Not checking the side mirrors&#34; data-my=&#34;Tidak memeriksa cermin sisi&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;7&lt;/td&gt;
+        &lt;td data-en=&#34;Not checking the brakes&#34; data-my=&#34;Tidak memeriksa brek&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;8&lt;/td&gt;
+        &lt;td data-en=&#34;Not ensuring the gear is in neutral&#34; data-my=&#34;Tidak menetukan gear dalam keadaan bebas&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;9&lt;/td&gt;
+        &lt;td data-en=&#34;Not starting the engine correctly&#34; data-my=&#34;Tidak menghidupkan enjin dengan betul&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+
+    &lt;!-- Main Items --&gt;
+    &lt;table&gt;
+      &lt;caption data-en=&#34;C. Safe Starting Procedures&#34; data-my=&#34;C. Memulakan Pergerakan Selamat&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;Not honking before starting the test&#34; data-my=&#34;Tidak membunyikan hon sebelum memulakan ujian&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;Not checking side and rear mirrors briefly&#34; data-my=&#34;Tidak melihat cermin sisi dan belakang seketika&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;Not signaling with hands&#34; data-my=&#34;Tidak memberi isyarat tangan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;Not using the appropriate gear&#34; data-my=&#34;Tidak menggunakan gear sesuai&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;(M)Not signaling&#34; data-my=&#34;(M)Tidak memberi isyarat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+
+    &lt;!-- Main Items --&gt;
+    &lt;table&gt;
+      &lt;caption data-en=&#34;D. Riding on Straight Roads&#34; data-my=&#34;D. Menunggang Di Jalan Lurus&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;Not riding in the correct lane&#34; data-my=&#34;Tidak menunggang di laluan yang betul&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;Not maintaining a safe distance&#34; data-my=&#34;Tidak menunggang dengan jarak selamat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;Not riding at an appropriate speed&#34; data-my=&#34;Tidak menunggang pada kelajuan sesuai&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;Not riding steadily&#34; data-my=&#34;Tidak menunggang dengan stabil&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td data-en=&#34;Not turning off signals correctly&#34; data-my=&#34;Tidak mematikan lampu isyarat yang betul&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;(M)Not using proper signals&#34; data-my=&#34;(M)Tidak menggunakan isyarat yang betul&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;(M)Entering other driver&#39;s lane except when overtaking&#34; data-my=&#34;(M)Memasuki lorong pemandu lain kecuali memotong&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;(M)Not changing lanes correctly&#34; data-my=&#34;(M)Mengubah laluan dengan betul&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;(M)Not following overtaking rules&#34; data-my=&#34;(M)Mengamalkan peraturan memotong&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+
+    &lt;!-- Main Items --&gt;
+    &lt;table&gt;
+      &lt;caption data-en=&#34;E. Riding at Intersections&#34; data-my=&#34;E. Menunggang Di Persimpangan&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;Not practicing safe routine before the intersection&#34; data-my=&#34;Tidak amalkan rutin selamat sebelum simpang&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;Not changing lanes correctly&#34; data-my=&#34;Tidak menukar lorong dengan betul&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;Not stopping at a safe distance&#34; data-my=&#34;Tidak berhenti pada jarak selamat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;Not stopping in the correct and safe position/lane&#34; data-my=&#34;Tidak berhenti di posisi/ lorong yang betul dan selamat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td data-en=&#34;Not checking left and right before exiting the intersection&#34; data-my=&#34;Tidak menoleh ke kiri dan kanan sebelum keluar simpang&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;(M)Not obeying traffic lights (if applicable)&#34; data-my=&#34;(M)Tidak patuh lampu isyarat (jika ada)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;(M)Entering another driver’s lane except when overtaking&#34; data-my=&#34;(M)Memasuki lorong pemandu lain kecuali memotong&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;(M)Not signaling with lights or hand&#34; data-my=&#34;(M)Tidak memberi isyarat lampu atau tangan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;(M)Not stopping before/after the white line&#34; data-my=&#34;(M)Tidak berhenti sebelum/ selepas garisan putih&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+
+    &lt;!-- Main Items --&gt;
+    &lt;table&gt;
+      &lt;caption data-en=&#34;F. Riding in Circles/Slip Roads&#34; data-my=&#34;F. Menunggang Di Bulatan/ Susur&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;Not practicing safe routine&#34; data-my=&#34;Tidak amalkan rutin selamat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;Not changing lanes correctly&#34; data-my=&#34;Tidak menukar lorong dengan betul&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;Not practicing safe following distance&#34; data-my=&#34;Tidak mengamalkan jarak mengekori dengan selamat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;(M)Not performing the maneuver correctly and safely&#34; data-my=&#34;(M)Tidak melakukan oleh gerak yang betul dan selamat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;(M)Not riding in the correct and safe position&#34; data-my=&#34;(M)Tidak menunggang di posisi yang betul dan selamat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;(M)Not giving way to vehicles from the right before entering the roundabout&#34; data-my=&#34;(M)Tidak memberi laluan kepada kenderaan dari arah kanan sebelum memasuki bulatan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;(M)Not signaling correctly before entering and exiting&#34; data-my=&#34;(M)Tidak memberi isyarat yang betul sebelum masuk dan keluar&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td data-en=&#34;(M)Not stopping at the roundabout/slip road&#34; data-my=&#34;(M)Tidak berhenti di bulatan/ susur&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;6&lt;/td&gt;
+        &lt;td data-en=&#34;(M)Not stopping before the line&#34; data-my=&#34;(M)Tidak berhenti sebelum garisan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;7&lt;/td&gt;
+        &lt;td data-en=&#34;(M)Not stopping safely&#34; data-my=&#34;(M)Tidak berhenti dengan selamat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+
+    &lt;!-- Main Items --&gt;
+    &lt;table&gt;
+      &lt;caption data-en=&#34;G. Riding in Corners/Slip Roads&#34; data-my=&#34;G. Menunggang Di Selekoh/ Susur&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;Not checking side mirrors and looking back&#34; data-my=&#34;Tidak melihat cermin sisi dan melihat belakang&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;Not slowing down the motorcycle&#34; data-my=&#34;Tidak memperlahankan motosikal&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;Not being in the correct lane&#34; data-my=&#34;Tidak berada di lorong yang betul&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;Not using the throttle effectively&#34; data-my=&#34;Tidak menggunakan pendikit minyak dengan efektif&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;(M)Entering another driver&#39;s lane&#34; data-my=&#34;(M)Memasuki lorong pemandu lain&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;(M)Overtaking in a corner&#34; data-my=&#34;(M)Memotong di selekoh&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+
+    &lt;!-- Main Items --&gt;
+    &lt;table&gt;
+      &lt;caption data-en=&#34;H. Stopping and Completing the Test&#34; data-my=&#34;H. Berhenti Dan Tamatkan Ujian&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;Not practicing safety routine&#34; data-my=&#34;Tidak amalkan rutin selamat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;Not slowing down the motorcycle with right hand signal&#34; data-my=&#34;Tidak memperlahankan motosikal dengan isyarat tangan kanan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;Not stopping in the correct and safe position with right hand signal&#34; data-my=&#34;Tidak berhenti di posisi yang betul dan selamat dengan memberi isyarat tangan kanan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;Not releasing gear and turning off the engine properly&#34; data-my=&#34;Tidak membebaskan gear dan mematikan enjin dengan betul&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td data-en=&#34;Not parking the motorcycle correctly and safely&#34; data-my=&#34;Tidak memarkir motosikal dengan betul dan selamat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;(M)Not signaling correctly&#34; data-my=&#34;(M)Tidak memberi isyarat dengan betul&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+
+    &lt;!-- Mandatory Items --&gt;
+    &lt;table class=&#34;mandatory&#34;&gt;
+      &lt;caption data-en=&#34;I. Effective Marks&#34; data-my=&#34;I. Efektif Markah&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;(M)Not controlling the motorcycle steadily and safely&#34; data-my=&#34;(M)Tidak mengawal motosikal dengan stabil dan selamat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;(M)Involved in an accident&#34; data-my=&#34;(M)Terlibat dengan kemalangan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;(M)Accident could have been avoided by the competency of other drivers&#34; data-my=&#34;(M)Kemalangan dapat dielakan oleh kecekapan pemandu lain&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;(M)Not following traffic rules&#34; data-my=&#34;(M)Tidak mematuhi arahan-arahan lalulintas&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td data-en=&#34;(M)Not giving priority to other road users&#34; data-my=&#34;(M)Tidak memberi keutamaan kepada pengguna jalan lain&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;6&lt;/td&gt;
+        &lt;td data-en=&#34;(M)Foot touches/treads on road/barricade&#34; data-my=&#34;(M)Kaki mencecah/ memijak jalan/ benteng&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/div&gt;
+
+  &lt;!-- Additional Sections C to I go here in the same format --&gt;
+&lt;/div&gt;
+
+&lt;!-- style css --&gt;
+&lt;style&gt;
+  /* General styles for the button container */
+  .field {
+      margin: 20px; 
+  }
+
+  /* Style the toggle button */
+  .button {
+      display: inline-block; /* Ensure the button is inline-block */
+      padding: 12px 20px; /* Add padding for better touch/click area */
+      font-size: 16px; /* Increase font size for readability */
+      border: 2px solid transparent; /* Transparent border for consistent sizing */
+      border-radius: 5px; /* Rounded corners */
+      background-color: #1aeb02; /* Primary background color */
+      color: #ffffff; /* Text color */
+      transition: background-color 0.3s, border-color 0.3s; /* Smooth transition for background and border color */
+      cursor: pointer; /* Change cursor to pointer */
+  }
+
+  /* Style for outlined button */
+  .button.is-outlined {
+      background-color: transparent; /* Transparent background for outlined button */
+      border-color: #1aeb02; /* Border color for outlined button */
+      color: #1aeb02; /* Text color for outlined button */
+  }
+
+  /* Hover and focus styles */
+  .button:hover, .button:focus {
+      background-color: #0c8c00; /* Darker background on hover/focus */
+      border-color: #0c8c00; /* Darker border on hover/focus */
+      outline: none; /* Remove default outline */
+  }
+
+  /* Responsive styles */
+  @media (max-width: 600px) {
+      .button {
+          font-size: 18px; /* Increase font size on mobile for better readability */
+          padding: 15px 25px; /* Adjust padding for larger touch targets */
+      }
+  }
+    
+  .select {
+      position: relative;
+      margin: 20px; 
+  }
+
+  /* Style the select element */
+  select {
+      width: 100%; /* Full width for better touch targets on mobile */
+      padding: 12px 15px; /* Add padding for better touch/click area */
+      font-size: 16px; /* Increase font size for readability */
+      border: 1px solid #ccc; /* Light border for a clean look */
+      border-radius: 5px; /* Rounded corners */
+      background-color: #ffffff; /* White background for contrast */
+      appearance: none; /* Remove default arrow */
+      background-repeat: no-repeat; /* Prevent background image from repeating */
+      background-position: right 10px center; /* Position the arrow */
+      background-size: 16px; /* Size of the custom arrow */
+      cursor: pointer; /* Change cursor to pointer */
+      transition: border-color 0.3s; /* Smooth transition for border color */
+  }
+
+  /* Change border color on focus */
+  select:focus {
+      border-color: #66afe9; /* Change border color on focus */
+      outline: none; /* Remove default outline */
+  }
+
+  /* Responsive styles */
+  @media (max-width: 600px) {
+      select {
+          font-size: 18px; /* Increase font size on mobile for better readability */
+          padding: 15px; /* Adjust padding for larger touch targets */
+      }
+  }
+
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  th,
+  td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+  caption {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  .mandatory {
+    font-weight: bold;
+  }
+  .hidden {
+    display: none;
+  }
+  .section-content {
+    margin-top: 20px;
+  }
+  .mandatory {
+    background-color: #ffcccc;
+  }
+  .highlight {
+    background: linear-gradient(145deg, #1aeb02, #14d102);
+    color: #3c3d3c; 
+  }
+&lt;/style&gt;
+
+&lt;!-- style css --&gt;
+
+&lt;script&gt;
+  function toggleSection(sectionId) {
+    // Hide all sections
+    const sections = document.querySelectorAll(&#34;.section-content&#34;);
+    sections.forEach((section) =&gt; section.classList.add(&#34;hidden&#34;));
+
+    // Show the selected section
+    const selectedSection = document.getElementById(sectionId);
+    if (selectedSection) {
+      selectedSection.classList.remove(&#34;hidden&#34;);
+    }
+  }
+
+  // Function to update section content based on language
+  function updateSectionContent(language) {
+    document.querySelectorAll(&#34;.section-content&#34;).forEach((section) =&gt; {
+      section.querySelector(&#34;h2&#34;).textContent = section.querySelector(&#34;h2&#34;).getAttribute(`data-${language.toLowerCase()}`);
+      section.querySelectorAll(&#34;caption&#34;).forEach((caption) =&gt; {
+        caption.textContent = caption.getAttribute(`data-${language.toLowerCase()}`);
+      });
+      section.querySelectorAll(&#34;td[data-en]&#34;).forEach((element) =&gt; {
+        element.textContent = element.getAttribute(`data-${language.toLowerCase()}`);
+      });
+      section.querySelectorAll(&#34;th[data-en]&#34;).forEach((element) =&gt; {
+        element.textContent = element.getAttribute(`data-${language.toLowerCase()}`);
+      });
+    });
+  }
+
+  // Function to update dropdown options
+  function updateDropdown(language) {
+    const dropdown = document.getElementById(&#34;section-dropdown&#34;);
+    const contentMap =
+      language === &#34;EN&#34;
+        ? {
+            A: &#34;A. Safety Clothing / Equipment&#34;,
+            B: &#34;B. Motorcycle Inspection Routine&#34;,
+            C: &#34;C. Pre-Trip Inspection&#34;,
+            D: &#34;D. Riding on the Narrow Bridge Except for License Class A/C&#34;,
+            E: &#34;E. Riding Through Cone Obstacles (SLALOM)&#34;,
+            F: &#34;F. Emergency Braking&#34;,
+            G: &#34;G. Riding on Uneven Surfaces Except for License Class A/C&#34;,
+            H: &#34;H. Making a Figure &#39;8&#39; Maneuver&#34;,
+            I: &#34;I. Riding on Sharp Turns&#34;,
+            J: &#34;J. Effective (Afektif)&#34;,
+            III: &#34;Section III (Riding Test)&#34;,
+          }
+        : {
+            A: &#34;A. Pakaian / Peralatan Keselamatan&#34;,
+            B: &#34;B. Rutin Pemeriksaan Motosikal&#34;,
+            C: &#34;C. Pemeriksaan Sebelum Memulakan Perajalan&#34;,
+            D: &#34;D. Menunggang Di atas Titi Kecuali Kelas Lesen A/C&#34;,
+            E: &#34;E. Menunggang Rintangan Amara Kon (SLALOM)&#34;,
+            F: &#34;F. Brek Kecemasan&#34;,
+            G: &#34;G. Menunggang Di Laluan Tidak Rata Kecuali Kelas Lesen A/C&#34;,
+            H: &#34;H. Membuat Pegerakan Angka &#39;8&#39;&#34;,
+            I: &#34;I. Menunggang Di Selekoh Tajam&#34;,
+            J: &#34;J. Afektif&#34;,
+            III: &#34;Bahagian III (Laluan)&#34;,
+          };
+
+    // Clear existing options
+    dropdown.innerHTML = &#39;&lt;option value=&#34;&#34; selected&gt;Select a Section&lt;/option&gt;&#39;;
+
+    // Add new options
+    Object.keys(contentMap).forEach((key) =&gt; {
+      const option = document.createElement(&#34;option&#34;);
+      option.value = `section-${key.toLowerCase()}`;
+      option.textContent = contentMap[key];
+      dropdown.appendChild(option);
+    });
+  }
+
+  // Initialize language state
+  let currentLang = &#34;MY&#34;; // Default language
+  updateDropdown(currentLang); // Set initial dropdown options
+  updateSectionContent(currentLang); // Set initial section content
+
+  document.getElementById(&#34;toggle-language&#34;).addEventListener(&#34;click&#34;, function () {
+    currentLang = currentLang === &#34;EN&#34; ? &#34;MY&#34; : &#34;EN&#34;;
+    updateSectionContent(currentLang);
+    updateDropdown(currentLang);
+    this.textContent = currentLang === &#34;EN&#34; ? &#34;BM&#34; : &#34;English&#34;;
+  });
+  document.addEventListener(&#34;DOMContentLoaded&#34;, function () {
+    // Add click event listener to all table rows
+    document.querySelectorAll(&#34;tr&#34;).forEach(function (row) {
+      row.addEventListener(&#34;click&#34;, function () {
+        // Toggle highlight class on the clicked row
+        this.classList.toggle(&#34;highlight&#34;);
+      });
+    });
+  });
+&lt;/script&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Class D/DA</title>
+      <link>https://eadc723723.github.io/pages/classd-da/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eadc723723.github.io/pages/classd-da/</guid>
+      
+      <description>&lt;!-- &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css&#34;&gt; --&gt;
+&lt;div class=&#34;container&#34;&gt;
+
+  &lt;!-- Language Toggle --&gt;
+  &lt;div class=&#34;field is-grouped is-grouped-left container&#34;&gt;
+    &lt;div class=&#34;control&#34;&gt;
+      &lt;button class=&#34;button is-primary is-outlined&#34; id=&#34;toggle-language&#34;&gt;English&lt;/button&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;!-- Dropdown Menu --&gt;
+  &lt;div class=&#34;select&#34;&gt;
+    &lt;select id=&#34;section-dropdown&#34; onchange=&#34;toggleSection(this.value)&#34;&gt;
+      &lt;!-- Options will be dynamically updated by JavaScript --&gt;
+    &lt;/select&gt;
+  &lt;/div&gt;
+
+  &lt;!-- Section Containers --&gt;
+  &lt;div id=&#34;section-a&#34; class=&#34;section-content hidden&#34;&gt;
+    &lt;h2 data-en=&#34;A. Vehicle Inspection Routine (RPK)&#34; data-my=&#34;A. Rutin Pemeriksaan Kenderaan (RPK)&#34;&gt;&lt;/h2&gt;
+
+ &lt;table&gt;
+      &lt;caption data-en=&#34;External Vehicle Inspection&#34; data-my=&#34;Pemeriksaan Luaran Kenderaan&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;Headlight&#34; data-my=&#34;Lampu Hadapan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;Registration Plate&#34; data-my=&#34;No Plat Pendaftaran&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;Bumper&#34; data-my=&#34;Bumper&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;Indicator Lights&#34; data-my=&#34;Lampu Isyarat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td data-en=&#34;Tires (Pressure, Tread, and Physical Condition)&#34; data-my=&#34;Tayar (Tekanan angin, Bunga tayar dan keadaan fizikal)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;6&lt;/td&gt;
+        &lt;td data-en=&#34;Rear/Brake Lights&#34; data-my=&#34;Lampu Belakang/ Brek&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;7&lt;/td&gt;
+        &lt;td data-en=&#34;Hood and Trunk&#34; data-my=&#34;Bonet dan But&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;8&lt;/td&gt;
+        &lt;td data-en=&#34;Left/Right Side Mirrors&#34; data-my=&#34;Cermin sisi kiri / Kanan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;9&lt;/td&gt;
+        &lt;td data-en=&#34;Left/Right Door Mirrors&#34; data-my=&#34;Cermin pintu kiri/ kanan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;10&lt;/td&gt;
+        &lt;td data-en=&#34;Front and Rear Mirrors&#34; data-my=&#34;Cermin hadapan dan belakang&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;11&lt;/td&gt;
+        &lt;td data-en=&#34;Wiper&#34; data-my=&#34;Pengelap cermin&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;12&lt;/td&gt;
+        &lt;td data-en=&#34;Vehicle/Driver Documents&#34; data-my=&#34;Dokumen kenderaan / Pemandu&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+
+&lt;table&gt;
+      &lt;caption data-en=&#34;Under-Hood Inspection&#34; data-my=&#34;Pemeriksaan Dalam Bonet Motokar&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;13&lt;/td&gt;
+        &lt;td data-en=&#34;Checking Lubricant Level&#34; data-my=&#34;Memeriksa petunjuk aras pelincir&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;14&lt;/td&gt;
+        &lt;td data-en=&#34;Checking Brake Fluid&#34; data-my=&#34;Memeriksa cecair brek&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;15&lt;/td&gt;
+        &lt;td data-en=&#34;Checking Power Oil Level&#34; data-my=&#34;Memeriksa paras minyak kuasa&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;16&lt;/td&gt;
+        &lt;td data-en=&#34;Checking Battery (Electrolyte Level/Indicator)&#34; data-my=&#34;Memeriksa bateri (Aras Elektrolit/ Indikator)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;17&lt;/td&gt;
+        &lt;td data-en=&#34;Checking Radiator Water Tank&#34; data-my=&#34;Memeriksa tangki air radiator&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;18&lt;/td&gt;
+        &lt;td data-en=&#34;Checking Reserve Water Tank&#34; data-my=&#34;Memeriksa tangki air simpanan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;19&lt;/td&gt;
+        &lt;td data-en=&#34;Checking Belt&#34; data-my=&#34;Memeriksa tali sawat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;20&lt;/td&gt;
+        &lt;td data-en=&#34;Checking Hoses&#34; data-my=&#34;Memeriksa hos&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+
+&lt;table&gt;
+      &lt;caption data-en=&#34;Under-Trunk Inspection&#34; data-my=&#34;Pemeriksaan Dalam But Motokar&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;21&lt;/td&gt;
+        &lt;td data-en=&#34;Checking Spare Tire&#34; data-my=&#34;Memeriksa tayar gentian&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;22&lt;/td&gt;
+        &lt;td data-en=&#34;Ensuring Safety Equipment&#34; data-my=&#34;Memastikan peralatan keselamatan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;23&lt;/td&gt;
+        &lt;td data-en=&#34;Ensuring Tools&#34; data-my=&#34;Memastikan perkakasan (Tool)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;24&lt;/td&gt;
+        &lt;td data-en=&#34;Conducting Inspection Routine within 7 Minutes&#34; data-my=&#34;Melakukan rutin pemeriksaan dalam masa 7 minit&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/div&gt;
+
+  &lt;div id=&#34;section-b&#34; class=&#34;section-content hidden&#34;&gt;
+    &lt;h2 class=&#34;subtitle&#34; data-en=&#34;B. Pre-Driving Routine (RSM)&#34; data-my=&#34;B. Rutin Sebelum Memandu (RSM)&#34;&gt;&lt;/h2&gt;
+    &lt;table&gt;
+      &lt;caption data-en=&#34;Pre-Driving Routine (RSM)&#34; data-my=&#34;Rutin Sebelum Memandu (RSM)&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;Enter the vehicle and ensure the handbrake is engaged&#34; data-my=&#34;Masuk duduk dan memastikan brek tangan ditarik&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;Adjust the seat&#34; data-my=&#34;Melaraskan tempat duduk&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;Determine hand position on the steering wheel&#34; data-my=&#34;Menentukan kedudukan tangan pada stereng&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;Adjust rearview and side mirrors&#34; data-my=&#34;Melaraskan cermin pandang belakang dan sisi&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+    &lt;table&gt;
+      &lt;caption data-en=&#34;Ensure all indicators on the instrument panel are functioning correctly (switch on)&#34; data-my=&#34;Memastikan semua petunjuk pada panel instrumen berfungsi dengan baik (on suis)&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td data-en=&#34;Fuel Gauge&#34; data-my=&#34;Tolok bahan bakar&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;6&lt;/td&gt;
+        &lt;td data-en=&#34;Engine Temperature Gauge&#34; data-my=&#34;Tolok suhu enjin&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;7&lt;/td&gt;
+        &lt;td data-en=&#34;Handbrake Warning Light&#34; data-my=&#34;Lampu amaran brek tangan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;8&lt;/td&gt;
+        &lt;td data-en=&#34;Engine Oil Pressure Warning Light&#34; data-my=&#34;Lampu amaran tekanan minyak enjin&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;9&lt;/td&gt;
+        &lt;td data-en=&#34;Battery Warning Light&#34; data-my=&#34;Lampu amaran bateri&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;10&lt;/td&gt;
+        &lt;td data-en=&#34;Ensure the gear is in neutral&#34; data-my=&#34;Memastikan gear dalam keadaan bebas&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;11&lt;/td&gt;
+        &lt;td data-en=&#34;Start the engine while pressing the brake or clutch&#34; data-my=&#34;Menghidupkan enjin dengan menekan brek atau cekam&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+    &lt;table&gt;
+      &lt;caption data-en=&#34;Test the equipment functionality&#34; data-my=&#34;Menguji peralatan berfungsi dengan baik&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;td&gt;12&lt;/td&gt;
+        &lt;td data-en=&#34;Headlights&#34; data-my=&#34;Lampu depan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;13&lt;/td&gt;
+        &lt;td data-en=&#34;Indicator Lights&#34; data-my=&#34;Lampu isyarat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;14&lt;/td&gt;
+        &lt;td data-en=&#34;Hazard Lights&#34; data-my=&#34;Lampu Hazard&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;15&lt;/td&gt;
+        &lt;td data-en=&#34;Tachometer (RPM)&#34; data-my=&#34;Takometer (RPM)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;16&lt;/td&gt;
+        &lt;td data-en=&#34;Windscreen Washer/ Wiper&#34; data-my=&#34;Pemancut air/ pengelap cermin&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;17&lt;/td&gt;
+        &lt;td data-en=&#34;Honk&#34; data-my=&#34;Hon&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;18&lt;/td&gt;
+        &lt;td data-en=&#34;Check seatbelt condition&#34; data-my=&#34;Menguji keadaan tali pinggang keledar&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;19&lt;/td&gt;
+        &lt;td data-en=&#34;Wear seatbelt&#34; data-my=&#34;Memakai tali pinggang keledar&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;20&lt;/td&gt;
+        &lt;td data-en=&#34;Conduct inspection routine within the specified 5 minutes&#34; data-my=&#34;Melakukan pemeriksaan dalam masa yang ditetapkan 5 minit&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/div&gt;
+
+  &lt;section id=&#34;section-c&#34; class=&#34;section-content hidden&#34;&gt;
+    &lt;h2 class=&#34;subtitle&#34; data-en=&#34;Hill Climbing and Descending Test&#34; data-my=&#34;Ujian Mendaki dan Menuruni Bukit&#34;&gt;&lt;/h2&gt;
+
+&lt;table&gt;
+      &lt;caption data-en=&#34;Hill Climbing and Descending Test&#34; data-my=&#34;Ujian Mendaki dan Menuruni Bukit&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;Perform pre-driving routine (if changing vehicles)&#34; data-my=&#34;Melakukan rutin sebelum memandu (jika bertukar kenderaan)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;Perform safe driving routine (CITO)&#34; data-my=&#34;Melakukan rutin selamat memandu (CITO)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;Use the appropriate gear to start movement&#34; data-my=&#34;Menggunakan gear yang sesuai bagi memulakan pergerakan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;Control the accelerator/clutch while climbing and descending the hill&#34; data-my=&#34;Mengawal pemecut/ cekam semasa mendaki dan menuruni bukit&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td data-en=&#34;Control the accelerator/clutch causing the engine to stall&#34; data-my=&#34;Mengawal pemecut/ cekam sehingga menyebabkan enjin mati&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;6&lt;/td&gt;
+        &lt;td data-en=&#34;Raise hand/honk after being satisfied with placing both front wheels on the yellow line&#34; data-my=&#34;Mengangkat tangan/ hon setelah berpuas hati meletakkan kedua-dua roda hadapan di atas garisan kuning&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+
+&lt;table&gt;
+      &lt;caption data-en=&#34;MANDATORY&#34; data-my=&#34;MANDATORI&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Stop and place both front wheels not exceeding 50% on the yellow line continuously&#34; data-my=&#34;(M) Berhenti dan meletakkan kedua-dua roda hadapan tidak melebihi 50% di atas garisan kuning secara berterusan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Hit or touch the line, barrier, or marker post while climbing and descending the hill&#34; data-my=&#34;(M) Melanggar atau menyentuh garisan, benteng atau tiang penanda semasa mendaki dan menuruni bukit&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Both front wheels do not retreat more than 50% from the yellow line&#34; data-my=&#34;(M) Kedua-dua roda hadapan tidak berundur melebihi 50% dari garisan kuning&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Perform the climbing movement within 3 minutes&#34; data-my=&#34;(M) Melakukan pergerakan mendaki dalam masa 3 minit&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Involvement in an accident&#34; data-my=&#34;(M) Terlibat dengan kemalangan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/section&gt;
+
+  &lt;section id=&#34;section-d&#34; class=&#34;section-content hidden&#34;&gt;
+    &lt;h2 class=&#34;subtitle&#34; data-en=&#34;Parallel Parking&#34; data-my=&#34;Memarkir Sisi&#34;&gt;&lt;/h2&gt;
+
+&lt;table&gt;
+      &lt;caption data-en=&#34;Parallel Parking&#34; data-my=&#34;Memarkir Sisi&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;Perform pre-driving routine (if changing vehicle)&#34; data-my=&#34;Melakukan rutin sebelum memandu (jika bertukar kenderaan)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;Perform safe driving routine (CITO)&#34; data-my=&#34;Melakukan rutin selamat memandu (CITO)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;Use appropriate gear to start moving&#34; data-my=&#34;Menggunakan gear yang sesuai bagi memulakan pergerakan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;Park the vehicle in one attempt&#34; data-my=&#34;Memakir motokar dengan sekali percubaan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td data-en=&#34;Apply correct steering and maneuvering techniques&#34; data-my=&#34;Mengaplikasi teknik yang betul bagi pegangan dan pusingan stereng&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;6&lt;/td&gt;
+        &lt;td data-en=&#34;Control the accelerator/brake to prevent engine stalling&#34; data-my=&#34;Mengawal pemecut/ cekam supaya enjin tidak mati&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;7&lt;/td&gt;
+        &lt;td data-en=&#34;Align the vehicle with the parking space&#34; data-my=&#34;Meletakkan motokar pada kedudukan yang selari dengan petak&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;8&lt;/td&gt;
+        &lt;td data-en=&#34;Raise hand/honk when satisfied with the vehicle&#39;s position in the space&#34; data-my=&#34;Mengangkat tangan/ hon setelah berpuas hati meletakkan motokar di dalam petak&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+
+&lt;table&gt;
+      &lt;caption data-en=&#34;MANDATORY&#34; data-my=&#34;MANDATORI&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Do not hit or touch lines or barriers while maneuvering&#34; data-my=&#34;(M) Tidak melanggar atau menyentuh garisan, banteng semasa melakukan pergerakan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Ensure the entire vehicle is within the parking space&#34; data-my=&#34;(M) Memastikan keseluruhan badan motokar berada dalam petak&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;(M) The vehicle does not protrude when entering or exiting the space&#34; data-my=&#34;(M) Badan motokar tidak menjulur keluar semasa masuk atau keluar petak&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Complete entry and exit maneuvers within 5 minutes&#34; data-my=&#34;(M) Melakukan pergerakan masuk dan keluar petak dalam masa 5 minit&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Involvement in an accident&#34; data-my=&#34;(M) Terlibat dengan kemalangan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/section&gt;
+
+  &lt;section id=&#34;section-e&#34; class=&#34;section-content hidden&#34;&gt;
+    &lt;h2 class=&#34;subtitle&#34; data-en=&#34;Three-Point Turn&#34; data-my=&#34;Pergerakan Tiga Penjuru&#34;&gt;&lt;/h2&gt;
+
+&lt;table&gt;
+      &lt;caption data-en=&#34;Three-Point Turn&#34; data-my=&#34;Pergerakan Tiga Penjuru&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;Perform pre-driving routine (if changing vehicle)&#34; data-my=&#34;Melakukan rutin sebelum memandu (jika bertukar kenderaan)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;Perform safe driving routine (CITO)&#34; data-my=&#34;Melakukan rutin selamat memandu (CITO)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;Apply correct steering and maneuvering techniques&#34; data-my=&#34;Mengaplikasi teknik yang betul bagi pegangan dan pusingan stereng&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;Control the accelerator/brake to prevent engine stalling&#34; data-my=&#34;Mengawal pemecut/ cekam supaya enjin tidak mati&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td data-en=&#34;Use appropriate gear to start moving&#34; data-my=&#34;Menggunakan gear yang sesuai bagi memulakan pergerakan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+
+&lt;table&gt;
+      &lt;caption data-en=&#34;MANDATORY&#34; data-my=&#34;MANDATORI&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Enter the correct lane&#34; data-my=&#34;(M) Masuki lorong yang betul&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Do not hit or touch lines or barriers while maneuvering&#34; data-my=&#34;(M) Tidak melanggar atau menyentuh garisan, banteng semasa melakukan pergerakan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Complete the maneuver in no more than 3 movements&#34; data-my=&#34;(M) Olah gerak tidak melebihi 3 pergerakan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;(M) The vehicle does not protrude when entering or exiting the space&#34; data-my=&#34;(M) Badan motokar tidak menjulur keluar semasa masuk atau keluar petak&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Stop at the intersection&#34; data-my=&#34;(M) Berhenti di persimpangan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;6&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Complete entry and exit maneuvers within 3 minutes&#34; data-my=&#34;(M) Melakukan pergerakan masuk dan keluar petak dalam masa 3 minit&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;7&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Involvement in an accident&#34; data-my=&#34;(M) Terlibat dengan kemalangan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/section&gt;
+
+  &lt;section id=&#34;section-f&#34; class=&#34;section-content hidden&#34;&gt;
+    &lt;h2 class=&#34;subtitle&#34; data-en=&#34;Z-Turn&#34; data-my=&#34;Pergerakan di Selekoh &#39;Z&#39;&#34;&gt;&lt;/h2&gt;
+    &lt;table&gt;
+      &lt;caption data-en=&#34;Z-Turn&#34; data-my=&#34;Pergerakan di Selekoh &#39;Z&#39;&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;Perform pre-driving routine (if changing vehicle)&#34; data-my=&#34;Melakukan rutin sebelum memandu (jika bertukar kenderaan)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;Perform safe driving routine (CITO)&#34; data-my=&#34;Melakukan rutin selamat memandu (CITO)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;Use appropriate gear to start moving&#34; data-my=&#34;Menggunakan gear yang sesuai bagi memulakan pergerakan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;Ensure the vehicle moves forward continuously&#34; data-my=&#34;Memastikan motokar bergerak ke hadapan secara berterusan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td data-en=&#34;Control the accelerator/brake to prevent engine stalling&#34; data-my=&#34;Mengawal pemecut/ cekam supaya enjin tidak mati&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;6&lt;/td&gt;
+        &lt;td data-en=&#34;Apply correct steering and maneuvering techniques&#34; data-my=&#34;Mengaplikasi teknik yang betul bagi pegangan dan pusingan stereng&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+
+&lt;table&gt;
+      &lt;caption data-en=&#34;MANDATORY&#34; data-my=&#34;MANDATORI&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Do not hit or touch barriers and lines while maneuvering&#34; data-my=&#34;(M) Tidak melanggar atau menyentuh banteng dan garisan semasa melakukan pergerakan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Stop at the intersection&#34; data-my=&#34;(M) Berhenti di persimpangan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Complete the Z-turn maneuver within 3 minutes&#34; data-my=&#34;(M) Melakukan pergerakan melalui selekoh ‘Z’ dalam masa 3 minit&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Involvement in an accident&#34; data-my=&#34;(M) Terlibat dengan kemalangan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/section&gt;
+
+  &lt;section id=&#34;section-g&#34; class=&#34;section-content hidden&#34;&gt;
+    &lt;h2 class=&#34;subtitle&#34; data-en=&#34;S-Turn&#34; data-my=&#34;Pergerakan di Selekoh &#39;S&#39;&#34;&gt;&lt;/h2&gt;
+
+&lt;table&gt;
+      &lt;caption data-en=&#34;S-Turn&#34; data-my=&#34;Pergerakan di Selekoh &#39;S&#39;&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;Perform pre-driving routine (if changing vehicle)&#34; data-my=&#34;Melakukan rutin sebelum memandu (jika bertukar kenderaan)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;Perform safe driving routine (CITO)&#34; data-my=&#34;Melakukan rutin selamat memandu (CITO)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;Use appropriate gear to start moving&#34; data-my=&#34;Menggunakan gear yang sesuai bagi memulakan pergerakan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;Ensure the vehicle moves forward continuously&#34; data-my=&#34;Memastikan motokar bergerak ke hadapan secara berterusan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td data-en=&#34;Control the accelerator/brake to prevent engine stalling&#34; data-my=&#34;Mengawal pemecut/ cekam supaya enjin tidak mati&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;6&lt;/td&gt;
+        &lt;td data-en=&#34;Apply correct steering and maneuvering techniques&#34; data-my=&#34;Mengaplikasi teknik yang betul bagi pegangan dan pusingan stereng&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+
+&lt;table&gt;
+      &lt;caption data-en=&#34;MANDATORY&#34; data-my=&#34;MANDATORI&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Do not hit or touch barriers and lines while maneuvering&#34; data-my=&#34;(M) Tidak melanggar atau menyentuh banteng dan garisan semasa melakukan pergerakan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Stop at the intersection&#34; data-my=&#34;(M) Berhenti di persimpangan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Complete the S-turn maneuver within 3 minutes&#34; data-my=&#34;(M) Melakukan pergerakan melalui selekoh ‘S’ dalam masa 3 minit&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Involvement in an accident&#34; data-my=&#34;(M) Terlibat dengan kemalangan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/section&gt;
+
+  &lt;section id=&#34;section-h&#34; class=&#34;section-content hidden&#34;&gt;
+    &lt;h2 class=&#34;subtitle&#34; data-en=&#34;Hill Climbing (RAMP)&#34; data-my=&#34;Pergerakan di Tanjakan (RAMP)&#34;&gt;&lt;/h2&gt;
+
+&lt;table&gt;
+      &lt;caption data-en=&#34;Hill Climbing (RAMP)&#34; data-my=&#34;Tanjakan (RAMP)&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;Perform pre-driving routine (if changing vehicle)&#34; data-my=&#34;Melakukan rutin sebelum memandu (jika bertukar kenderaan)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;Perform safe driving routine (CITO)&#34; data-my=&#34;Melakukan rutin selamat memandu (CITO)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;Stop at the top of the ramp with both front wheels touching the end of the ramp&#34; data-my=&#34;Berhenti di hujung tanjakan dengan kedua-dua roda hadapan menyantuh hujung tanjakan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;Pull the handbrake&#34; data-my=&#34;Menarik brek tangan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td data-en=&#34;Set the gear to P&#34; data-my=&#34;Meletakan gear pada kedudukan P&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;6&lt;/td&gt;
+        &lt;td data-en=&#34;Raise hand/horn once both front wheels are on the ramp&#34; data-my=&#34;Mengangkat tangan/ hon setelah kedua roda hadapan berada di atas tanjakan (RAMP)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;7&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Climb continuously with both front wheels on the ramp&#34; data-my=&#34;(M) Mendaki secara berterusan dengan kedua roda hadapan berada di atas tanjakan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;8&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Vehicle body must not exceed the line or hit the pole&#34; data-my=&#34;(M) Badan motokar tidak melebihi garisan atau langgar tiang&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+    &lt;table&gt;
+      &lt;caption data-en=&#34;Stop with all four wheels on the ramp&#34; data-my=&#34;Berhenti dengan keempat-empat roda di atas tanjakan (RAMP)&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;td&gt;9&lt;/td&gt;
+        &lt;td data-en=&#34;Pull the handbrake&#34; data-my=&#34;Menarik brek tangan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;10&lt;/td&gt;
+        &lt;td data-en=&#34;Set the gear to N&#34; data-my=&#34;Meletakan gear pada kedudukan N&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;11&lt;/td&gt;
+        &lt;td data-en=&#34;Raise hand/horn once all four wheels are on the ramp&#34; data-my=&#34;Mengangkat tangan/ hon setelah kedua roda hadapan berada di atas tanjakan (RAMP)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;12&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Failure to place all four wheels on the ramp&#34; data-my=&#34;(M) Gagal meletakan keempat-empat roda di atas tanjakan (RAMP)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+    &lt;table&gt;
+      &lt;caption data-en=&#34;Descending the Ramp&#34; data-my=&#34;Menuruni tanjakan (RAMP)&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;td&gt;13&lt;/td&gt;
+        &lt;td data-en=&#34;Move forward using appropriate gear and brakes to descend the ramp&#34; data-my=&#34;Bergerak ke hadapan dengan penggunaan gear dan brek yang sesuai turun dari tanjakan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;14&lt;/td&gt;
+        &lt;td data-en=&#34;Pull the handbrake&#34; data-my=&#34;Menarik brek tangan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;15&lt;/td&gt;
+        &lt;td data-en=&#34;Set the gear to P&#34; data-my=&#34;Meletakan gear pada kedudukan P&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+    &lt;table&gt;
+      &lt;caption data-en=&#34;Approach and Reverse Up the Ramp&#34; data-my=&#34;Mendekati dan mendaki mengundur menaiki tanjakan (RAMP)&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;td&gt;16&lt;/td&gt;
+        &lt;td data-en=&#34;Perform safe driving routine (CITO)&#34; data-my=&#34;Melakukan rutin selamat memandu (CITO)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;17&lt;/td&gt;
+        &lt;td data-en=&#34;Stop at the end of the ramp with both rear wheels touching the end of the ramp and continue climbing&#34; data-my=&#34;Berhenti di hujung tanjakan dengan kedua-dua roda belakang menyentuh hujung tanjakan dan meneruskan pendakian&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;18&lt;/td&gt;
+        &lt;td data-en=&#34;Pull the handbrake&#34; data-my=&#34;Menarik brek tangan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;19&lt;/td&gt;
+        &lt;td data-en=&#34;Set the gear to N&#34; data-my=&#34;Meletakan gear pada kedudukan N&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;20&lt;/td&gt;
+        &lt;td data-en=&#34;Raise hand/horn once both rear wheels are on the ramp&#34; data-my=&#34;Mengangkat tangan/ hon setelah kedua roda belakang berada di atas tanjakan (RAMP)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;21&lt;/td&gt;
+        &lt;td data-en=&#34;Move forward using appropriate gear and brakes to descend the ramp&#34; data-my=&#34;Bergerak kehadapan dengan penggunaan gear dan brek yang sesuai turun dari tanjakan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;22&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Perform the ramp climb with both rear wheels on the ramp&#34; data-my=&#34;(M) Melakukan pendakian tanjakan dengan kedua-dua roda belakang berada diatas tanjakan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;23&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Vehicle body must not exceed the line or hit the marker pole&#34; data-my=&#34;(M) Badan motokar tidak melepasi garisan atau melanggar tiang penanda&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;24&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Complete all ramp movements continuously within 5 minutes&#34; data-my=&#34;(M) Melaksanakan kesemua pergerakan tanjakan secara berterusan dalam masa 5 minit&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;25&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Not involved in an accident&#34; data-my=&#34;(M) Tidak terlibat dalam kemalangan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/section&gt;
+
+  &lt;div id=&#34;section-i&#34; class=&#34;section-content hidden&#34;&gt;
+    &lt;h2 class=&#34;subtitle&#34; data-en=&#34;Affective&#34; data-my=&#34;Afektif&#34;&gt;&lt;/h2&gt;
+
+&lt;table&gt;
+      &lt;caption data-en=&#34;Affective&#34; data-my=&#34;Afektif&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Practice safe driving routine (CITO) to avoid dangerous situations&#34; data-my=&#34;(M) Mengamalkan rutin selamat memandu (CITO) supaya tidak wujud situasi bahaya&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Accident can be avoided by the competence of other drivers&#34; data-my=&#34;(M) Kemalangan dapat dielakkan oleh kecekapan pemandu lain&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Adhere to traffic instructions&#34; data-my=&#34;(M) Mematuhi arahan-arahan lalulintas&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Not involved in an accident&#34; data-my=&#34;(M) Tidak terlibat dalam kemalangan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Wear seat belt&#34; data-my=&#34;(M) Memakai tali pinggang keledar&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/div&gt;
+
+  &lt;div id=&#34;section-iii&#34; class=&#34;section-content hidden&#34;&gt;
+    &lt;h2 data-en=&#34;A. Pre-Driving Routine (RSM)&#34; data-my=&#34;A. Rutin Sebelum Memandu (RSM)&#34;&gt;&lt;/h2&gt;
+
+&lt;!-- Main Items --&gt;
+&lt;table&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;Enter, sit down, and ensure the handbrake is engaged&#34; data-my=&#34;Masuk duduk dan memastikan brek tangan ditarik&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;Adjust the seat&#34; data-my=&#34;Melaraskan tempat duduk&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;Determine hand position on the steering wheel&#34; data-my=&#34;Menentukan kedudukan tangan pada stereng&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;Adjust rearview and side mirrors&#34; data-my=&#34;Melaraskan cermin pandang belakang dan sisi&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td data-en=&#34;Check all indicators on the instrument panel are functioning properly&#34; data-my=&#34;Memeriksa semua petunjuk pada panel instrument berfungsi dengan baik&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;6&lt;/td&gt;
+        &lt;td data-en=&#34;Fuel gauge&#34; data-my=&#34;Tolok bahan bakar&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;7&lt;/td&gt;
+        &lt;td data-en=&#34;Engine temperature gauge&#34; data-my=&#34;Tolok suhu enjin&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;8&lt;/td&gt;
+        &lt;td data-en=&#34;Handbrake warning light&#34; data-my=&#34;Lampu amaran brek tangan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;9&lt;/td&gt;
+        &lt;td data-en=&#34;Engine oil pressure warning light&#34; data-my=&#34;Lampu amaran tekanan minyak enjin&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;10&lt;/td&gt;
+        &lt;td data-en=&#34;Battery warning light&#34; data-my=&#34;Lampu amaran bateri&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;11&lt;/td&gt;
+        &lt;td data-en=&#34;Ensure the gear is in neutral/P&#34; data-my=&#34;Memastikan gear dalam keadaan bebas/P&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;12&lt;/td&gt;
+        &lt;td data-en=&#34;Start the engine by pressing the brake or clutch&#34; data-my=&#34;Menghidupkan enjin dengan menekan brek atau cekam&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;13&lt;/td&gt;
+        &lt;td data-en=&#34;Test that all equipment is functioning properly&#34; data-my=&#34;Menguji peralatan berfungsi dengan baik&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;14&lt;/td&gt;
+        &lt;td data-en=&#34;All front and rear signal lights&#34; data-my=&#34;Semua lampu isyarat depan dan belakang&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;15&lt;/td&gt;
+        &lt;td data-en=&#34;Hazard lights&#34; data-my=&#34;Lampu Hazard&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;16&lt;/td&gt;
+        &lt;td data-en=&#34;Tachometer/RPM&#34; data-my=&#34;Takometer/RPM&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;17&lt;/td&gt;
+        &lt;td data-en=&#34;Water sprayer/wiper&#34; data-my=&#34;Pemancut air/Pengelap cermin&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;18&lt;/td&gt;
+        &lt;td data-en=&#34;Horn&#34; data-my=&#34;Hon&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;19&lt;/td&gt;
+        &lt;td data-en=&#34;Test the condition of the seatbelt&#34; data-my=&#34;Menguji keadaan tali pinggang keledar&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;20&lt;/td&gt;
+        &lt;td data-en=&#34;Ensure passengers wear seatbelts&#34; data-my=&#34;Memastikan penumpang memakai tali pinggang keledar&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;21&lt;/td&gt;
+        &lt;td data-en=&#34;Complete the inspection within the allotted 5 minutes&#34; data-my=&#34;Melakukan pemeriksaan dalam masa yang ditetapkan 5 minit&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Wear a seatbelt&#34; data-my=&#34;(M) Memakai tali pinggang keledar&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+
+&lt;!-- Main Items --&gt;
+&lt;table&gt;
+      &lt;caption data-en=&#34;B. Starting the Journey&#34; data-my=&#34;B. Memulakan Perjalanan&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;Detect hazards using mirrors correctly&#34; data-my=&#34;Mengesan hazard menggunakan cermin dengan betul&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;Give the correct signal within sufficient time&#34; data-my=&#34;Memberi isyuarat yang betul dan dalam tempoh yang mencukupi&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;Use the correct gear to start moving&#34; data-my=&#34;Menggunakan gear yang betul bagi memulakan perjalanan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;Check the blind spot&#34; data-my=&#34;Memeriksa titik buta (Blind spot)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td data-en=&#34;Release the handbrake before moving&#34; data-my=&#34;Melepaskan brek tangan sebelum bergerak&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;6&lt;/td&gt;
+        &lt;td data-en=&#34;Apply correct steering techniques&#34; data-my=&#34;Mengaplikasi teknik yang betul bagi pegangan dan pusingan stereng&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;7&lt;/td&gt;
+        &lt;td data-en=&#34;Use the accelerator/clutch effectively&#34; data-my=&#34;Menggunakan pemecut/ cekam dengan baik&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Control the vehicle safely when starting the journey&#34; data-my=&#34;(M) Mengawal motokar dengan selamat semasa memulakan perjalanan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Give signals&#34; data-my=&#34;(M) Memberi isyarat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Give priority to other vehicles/road users&#34; data-my=&#34;(M) Memberi keutamaan kepada kenderaan/pengguna jalan raya lain&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+
+&lt;!-- Main Items --&gt;
+&lt;table&gt;
+      &lt;caption data-en=&#34;C. Driving on a Curve&#34; data-my=&#34;C. Memandu di Selekoh&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;Check for hazards using mirrors correctly&#34; data-my=&#34;Mencari hazard menggunakan cermin dengan betul&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;Reduce speed effectively before entering the curve&#34; data-my=&#34;Mengurangkan kelajuan dengan efektif sebelum memasuki selekoh&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;Use the appropriate gear according to speed&#34; data-my=&#34;Mengguna gear yang sesuai mengikut kelajuan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;Apply correct steering and turning techniques&#34; data-my=&#34;Mengaplikasi teknik pegangan dan pusingan stereng&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td data-en=&#34;Avoid braking or changing gears in the curve&#34; data-my=&#34;Tidak membrek dan menukar gear di selekoh&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;6&lt;/td&gt;
+        &lt;td data-en=&#34;Use the accelerator effectively to pass and move away from the curve&#34; data-my=&#34;Mengguna pemecut dengan efektif bagi melepas dan menjauhi selekoh&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;7&lt;/td&gt;
+        &lt;td data-en=&#34;Maintain safe following distance&#34; data-my=&#34;Mengamalkan peraturan jarak mengekori dengan selamat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Control the steering wheel well in the curve&#34; data-my=&#34;(M) Mengawal stereng dengan baik di selekoh&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Do not enter the lane of other drivers while in the curve&#34; data-my=&#34;(M) Tidak memasuki lorong pemandu lain semasa di dalam selekoh&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Do not overtake while in the curve&#34; data-my=&#34;(M) Tidak memotong semasa di selekoh&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+
+&lt;!-- Main Items --&gt;
+&lt;table&gt;
+      &lt;caption data-en=&#34;D. Driving at Intersections&#34; data-my=&#34;D. Memandu di Persimpangan&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;Detect hazards using mirrors correctly&#34; data-my=&#34;Mengesan hazard menggunakan cermin dengan betul&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;Provide sufficient signal before performing a maneuver&#34; data-my=&#34;Memberi isyarat yang secukupnya sebelum melakukan oleh gerak&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;Reduce speed effectively&#34; data-my=&#34;Mengurangkan kelajuan dengan cara efektif&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;Use the appropriate gear according to speed&#34; data-my=&#34;Menggunakan gear yang sesuai mengikut kelajuan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td data-en=&#34;Stop the vehicle at a safe distance (2 meters) effectively&#34; data-my=&#34;Memberhentikan motokar pada jarak yang selamat (2 meter) dengan cara efektif&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;6&lt;/td&gt;
+        &lt;td data-en=&#34;Use the handbrake correctly&#34; data-my=&#34;Menggunakan brek tangan dengan betul&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;7&lt;/td&gt;
+        &lt;td data-en=&#34;Ensure the gear is in neutral/N&#34; data-my=&#34;Memastikan gear dalam keadaan bebas/N&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;8&lt;/td&gt;
+        &lt;td data-en=&#34;Press the brake pedal while stopping&#34; data-my=&#34;Menekan pedal brek semasa berhenti&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;9&lt;/td&gt;
+        &lt;td data-en=&#34;Select the appropriate gear to continue the journey&#34; data-my=&#34;Memilih gear yang sesuai bagi meneruskan perjalanan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;10&lt;/td&gt;
+        &lt;td data-en=&#34;Check blind spots&#34; data-my=&#34;Memeriksa titik buta (Blind spot)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;11&lt;/td&gt;
+        &lt;td data-en=&#34;Use the accelerator/clutch effectively to pass and move away from the intersection&#34; data-my=&#34;Menggunakan pemecut/cekam dengan efektif bagi melepasi dan menjauhi persimpangan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;12&lt;/td&gt;
+        &lt;td data-en=&#34;Turn off the signal after use&#34; data-my=&#34;Mematikan lampu isyarat selepas digunakan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;13&lt;/td&gt;
+        &lt;td data-en=&#34;Apply correct steering and turning techniques&#34; data-my=&#34;Mengaplikasi teknik yang betul bagi pegangan dan pusingan stereng&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Stop at the intersection&#34; data-my=&#34;(M) Berhenti di persimpangan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Stop behind the stop line&#34; data-my=&#34;(M) Berhenti di belakang garisan berhenti&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Give signals before performing a maneuver&#34; data-my=&#34;(M) Memberi isyarat sebelum melakukan oleh gerak&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Take the correct lane when turning&#34; data-my=&#34;(M) Menganbil lorong yang betul semasa membelok&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Obey traffic lights (if present)&#34; data-my=&#34;(M) Mematuhi lampu isyarat (jika ada)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;6&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Stop in the correct and safe position or lane&#34; data-my=&#34;(M) Berhenti di posisi atau lorong yang betul dan selamat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;7&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Perform correct and safe maneuvers&#34; data-my=&#34;(M) Melakukan oleh gerak yang betul dan selamat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+
+&lt;!-- Main Items --&gt;
+&lt;table&gt;
+      &lt;caption data-en=&#34;E. Turning Left and Right&#34; data-my=&#34;E. Membelok ke Kiri dan ke Kanan&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;Detect hazards using mirrors correctly&#34; data-my=&#34;Mengesan hazard menggunakan cermin dengan betul&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;Provide sufficient signal before performing a maneuver&#34; data-my=&#34;Memberi isyarat yang secukupnya sebelum melakukan oleh gerak&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;Check blind spots&#34; data-my=&#34;Memeriksa titik buta (Blind spot)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;Reduce speed effectively&#34; data-my=&#34;Mengurangkan kelajuan dengan cara efektif&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td data-en=&#34;Use the appropriate gear according to speed&#34; data-my=&#34;Menggunakan gear yang sesuai mengikut kelajuan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;6&lt;/td&gt;
+        &lt;td data-en=&#34;Effectively control the accelerator/clutch&#34; data-my=&#34;Mengawal pemecut/cekam yang efektif&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;7&lt;/td&gt;
+        &lt;td data-en=&#34;Apply correct steering and turning techniques&#34; data-my=&#34;Mengaplikasi teknik yang betul bagi pegangan dan pusingan stereng&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;8&lt;/td&gt;
+        &lt;td data-en=&#34;Change lanes smoothly&#34; data-my=&#34;Menukar lorong dengan lancar&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Give signals before performing a maneuver&#34; data-my=&#34;(M) Memberi isyarat sebelum melakukan oleh gerak&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Perform safe maneuvers&#34; data-my=&#34;(M) Melakukan oleh gerak yang selamat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Stop behind the line&#34; data-my=&#34;(M) Berhenti di belakang garisan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Obey traffic lights (if present)&#34; data-my=&#34;(M) Mematuhi arahan lampu isyarat (jika ada)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Drive in the correct and safe position or lane&#34; data-my=&#34;(M) Memandu di posisi atau lorong yang betul dan selamat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;6&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Turn left or right cautiously&#34; data-my=&#34;(M) Memandu/ membelok ke kiri atau ke kanan dengan berwaspada&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+
+&lt;!-- Main Items --&gt;
+&lt;table&gt;
+      &lt;caption data-en=&#34;F. Driving on a Straight Road&#34; data-my=&#34;F. Memandu di Jalan Lurus&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;Apply correct steering and turning techniques&#34; data-my=&#34;Mengaplikasi teknik yang betul bagi pegangan dan pusingan stereng&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;Use the appropriate gear according to speed&#34; data-my=&#34;Menggunakan gear yang sesuai mengikut kelajuan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;Drive at an appropriate speed&#34; data-my=&#34;Memandu pada kelajuan yang sesuai&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;Drive in the correct position&#34; data-my=&#34;Memandu di posisi yang betul&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td data-en=&#34;Follow safe following distance rules&#34; data-my=&#34;Mematuhi peraturan jarak mengekori dengan selamat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;6&lt;/td&gt;
+        &lt;td data-en=&#34;Follow overtaking and being overtaken rules&#34; data-my=&#34;Mematuhi peraturan memotong dan dipotong&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;7&lt;/td&gt;
+        &lt;td data-en=&#34;Detect hazards using mirrors correctly&#34; data-my=&#34;Mengesan hazard menggunakan cermin dengan betul&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;8&lt;/td&gt;
+        &lt;td data-en=&#34;Provide sufficient signal before performing a maneuver&#34; data-my=&#34;Memberi isyarat yang secukupnya sebelum melakukan oleh gerak&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;9&lt;/td&gt;
+        &lt;td data-en=&#34;Turn off the signal lights after use&#34; data-my=&#34;Mematikan lampu isyarat selepas digunakan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;10&lt;/td&gt;
+        &lt;td data-en=&#34;Check blind spots&#34; data-my=&#34;Memeriksa titik buta (Blind spot)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;11&lt;/td&gt;
+        &lt;td data-en=&#34;Release the clutch/brake while driving&#34; data-my=&#34;Melepaskan kaki di atas cekam/ brek semasa memandu&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;12&lt;/td&gt;
+        &lt;td data-en=&#34;Brake smoothly and effectively&#34; data-my=&#34;Membrek dengan baik dan lancar&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;13&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Comply with the set speed limit&#34; data-my=&#34;(M) Mematuhi had laju yang ditetapkan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;14&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Give signals before performing a maneuver&#34; data-my=&#34;(M) Memberi isyarat sebelum melakukan oleh gerak&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;15&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Control the steering wheel effectively (Ensure the vehicle is stable and safe)&#34; data-my=&#34;(M) Mengawal stereng dengan baik (Tidak menyebabkan motokar tidak stabil dan selamat)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;16&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Do not enter another driver&#39;s lane unless overtaking&#34; data-my=&#34;(M) Tidak memasuki lorong pemandu lain kecuali semasa memotong&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;17&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Follow overtaking and being overtaken rules&#34; data-my=&#34;(M) Mengamalkan peraturan memotong dan dipotong&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;18&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Follow solid line/double line/chevron rules&#34; data-my=&#34;(M) Mematuhi peraturan garisan terus/garisan berkembar/shevron&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+
+&lt;!-- Main Items --&gt;
+&lt;table&gt;
+      &lt;caption data-en=&#34;G. Driving in a Roundabout/Exit Lane&#34; data-my=&#34;G. Memandu di Bulatan/Laluan Susur&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;Detect hazards using mirrors correctly&#34; data-my=&#34;Mengesan hazard menggunakan cermin dengan betul&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;Provide sufficient signal before performing a maneuver&#34; data-my=&#34;Memberi isyarat dengan secukupnya sebelum melakukan oleh gerak&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;Check blind spots&#34; data-my=&#34;Memeriksa titik buta (blind spot)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;Control speed effectively&#34; data-my=&#34;Mengawal kelajuan dengan cara efektif&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td data-en=&#34;Use the appropriate gear according to speed&#34; data-my=&#34;Menggunakan gear yang sesuai mengikut kelajuan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;6&lt;/td&gt;
+        &lt;td data-en=&#34;Follow safe following distance rules&#34; data-my=&#34;Mengamalkan peraturan jarak mengekori dengan selamat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;7&lt;/td&gt;
+        &lt;td data-en=&#34;Control the steering wheel well while turning&#34; data-my=&#34;Mengawal stereng dengan baik semasa membelok&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;8&lt;/td&gt;
+        &lt;td data-en=&#34;Apply correct steering and turning techniques&#34; data-my=&#34;Mengaplikasi teknik pegangan dan pusingan stereng&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;9&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Perform correct and safe maneuvers&#34; data-my=&#34;(M) Melakukan oleh gerak yang betul dan selamat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;10&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Drive in the correct and safe position or lane&#34; data-my=&#34;(M) Memandu di posisi atau lorong yang betul dan selamat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;11&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Give signals before performing a maneuver&#34; data-my=&#34;(M) Memberi isyarat sebelum melakukan oleh gerak&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;12&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Yield to vehicles coming from the right before entering the roundabout&#34; data-my=&#34;(M) Memberi laluan kepada kenderaan dari arah kanan sebelum memasuki bulatan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+
+&lt;!-- Main Items --&gt;
+&lt;table&gt;
+      &lt;caption data-en=&#34;H. Driving in School/Residential Areas &amp; Others&#34; data-my=&#34;H. Memandu di Kawasan Sekolah/Perumahan &amp; Lain-Lain&#34;&gt;&lt;/caption&gt;
+      &lt;tr&gt;
+        &lt;th data-en=&#34;No.&#34; data-my=&#34;No.&#34;&gt;&lt;/th&gt;
+        &lt;th data-en=&#34;Item&#34; data-my=&#34;Item&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;Detect hazards using mirrors correctly&#34; data-my=&#34;Mencari hazard menggunakan cermin dengan betul&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;React appropriately to hazards (lights/horn)&#34; data-my=&#34;Memberikan reaksi yang sesuai kepada hazard (lampu/ hon)&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;Drive at a speed according to the appropriate speed limit&#34; data-my=&#34;Menggunakan kelajuan berdasarkan had laju yang sesuai&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;Use the appropriate gear according to speed&#34; data-my=&#34;Menggunakan gear yang sesuai mengikut kelajuan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td data-en=&#34;Drive at a safe following distance&#34; data-my=&#34;Memandu dengan jarak yang selamat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;6&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Perform correct and safe maneuvers&#34; data-my=&#34;(M) Melakukan oleh gerak yang betul dan selamat&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;7&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Do not exceed the prescribed speed limit&#34; data-my=&#34;(M) Tidak memandu melebihi had laju yang ditetapkan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;8&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Give priority to other road users&#34; data-my=&#34;(M) Memberi keutamaan kepada pengguna jalan raya yang lain&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;9&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Drive in the correct and safe position or lane&#34; data-my=&#34;(M) Memandu di posisi atau lorong yang betul&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+
+&lt;!-- Mandatory Items --&gt;
+&lt;table&gt;
+      &lt;caption data-en=&#34;I. Affective Driving&#34; data-my=&#34;I. Afektif&#34;&gt;&lt;/caption&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Practice safe driving routines when driving&#34; data-my=&#34;(M) Mengamalkan rutin pemanduan yang selamat apabila memandu&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Accidents can be avoided by the skill of other drivers&#34; data-my=&#34;(M) Kemalangan dapat dielakan oleh kecekapan pemandu lain&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Follow all traffic instructions&#34; data-my=&#34;(M) Mematuhi arahan-arahan lalulintas&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr class=&#34;mandatory&#34;&gt;
+        &lt;td&gt;4&lt;/td&gt;
+        &lt;td data-en=&#34;(M) Not involved in any accidents&#34; data-my=&#34;(M) Tidak terlibat dalam kemalangan&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/div&gt;
+
+  &lt;!-- Additional Sections C to I go here in the same format --&gt;
+&lt;/div&gt;
+
+&lt;!-- style css --&gt;
+&lt;style&gt;
+
+  /* General styles for the button container */
+  .field {
+      margin: 20px; 
+  }
+
+  /* Style the toggle button */
+  .button {
+      display: inline-block; /* Ensure the button is inline-block */
+      padding: 12px 20px; /* Add padding for better touch/click area */
+      font-size: 16px; /* Increase font size for readability */
+      border: 2px solid transparent; /* Transparent border for consistent sizing */
+      border-radius: 5px; /* Rounded corners */
+      background-color: #1aeb02; /* Primary background color */
+      color: #ffffff; /* Text color */
+      transition: background-color 0.3s, border-color 0.3s; /* Smooth transition for background and border color */
+      cursor: pointer; /* Change cursor to pointer */
+  }
+
+  /* Style for outlined button */
+  .button.is-outlined {
+      background-color: transparent; /* Transparent background for outlined button */
+      border-color: #1aeb02; /* Border color for outlined button */
+      color: #1aeb02; /* Text color for outlined button */
+  }
+
+  /* Hover and focus styles */
+  .button:hover, .button:focus {
+      background-color: #0c8c00; /* Darker background on hover/focus */
+      border-color: #0c8c00; /* Darker border on hover/focus */
+      outline: none; /* Remove default outline */
+  }
+
+  /* Responsive styles */
+  @media (max-width: 600px) {
+      .button {
+          font-size: 18px; /* Increase font size on mobile for better readability */
+          padding: 15px 25px; /* Adjust padding for larger touch targets */
+      }
+  }
+    
+  .select {
+      position: relative;
+      margin: 20px; 
+  }
+
+  /* Style the select element */
+  select {
+      width: 100%; /* Full width for better touch targets on mobile */
+      padding: 12px 15px; /* Add padding for better touch/click area */
+      font-size: 16px; /* Increase font size for readability */
+      border: 1px solid #ccc; /* Light border for a clean look */
+      border-radius: 5px; /* Rounded corners */
+      background-color: #ffffff; /* White background for contrast */
+      appearance: none; /* Remove default arrow */
+      background-repeat: no-repeat; /* Prevent background image from repeating */
+      background-position: right 10px center; /* Position the arrow */
+      background-size: 16px; /* Size of the custom arrow */
+      cursor: pointer; /* Change cursor to pointer */
+      transition: border-color 0.3s; /* Smooth transition for border color */
+  }
+
+  /* Change border color on focus */
+  select:focus {
+      border-color: #66afe9; /* Change border color on focus */
+      outline: none; /* Remove default outline */
+  }
+
+  /* Responsive styles */
+  @media (max-width: 600px) {
+      select {
+          font-size: 18px; /* Increase font size on mobile for better readability */
+          padding: 15px; /* Adjust padding for larger touch targets */
+      }
+  }
+
+
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  th,
+  td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+  caption {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  .mandatory {
+    font-weight: bold;
+  }
+  .hidden {
+    display: none;
+  }
+  .section-content {
+    margin-top: 20px;
+  }
+  .mandatory {
+    background-color: #ffcccc;
+  }
+  .highlight {
+    background: linear-gradient(145deg, #1aeb02, #14d102);
+    color: #3c3d3c; 
+    
+  }
+&lt;/style&gt;
+
+&lt;!-- style css --&gt;
+
+&lt;script&gt;
+  function toggleSection(sectionId) {
+    // Hide all sections
+    const sections = document.querySelectorAll(&#34;.section-content&#34;);
+    sections.forEach((section) =&gt; section.classList.add(&#34;hidden&#34;));
+
+    // Show the selected section
+    const selectedSection = document.getElementById(sectionId);
+    if (selectedSection) {
+      selectedSection.classList.remove(&#34;hidden&#34;);
+    }
+  }
+
+  // Function to update section content based on language
+  function updateSectionContent(language) {
+    document.querySelectorAll(&#34;.section-content&#34;).forEach((section) =&gt; {
+      section.querySelector(&#34;h2&#34;).textContent = section.querySelector(&#34;h2&#34;).getAttribute(`data-${language.toLowerCase()}`);
+      section.querySelectorAll(&#34;caption&#34;).forEach((caption) =&gt; {
+        caption.textContent = caption.getAttribute(`data-${language.toLowerCase()}`);
+      });
+      section.querySelectorAll(&#34;td[data-en]&#34;).forEach((element) =&gt; {
+        element.textContent = element.getAttribute(`data-${language.toLowerCase()}`);
+      });
+      section.querySelectorAll(&#34;th[data-en]&#34;).forEach((element) =&gt; {
+        element.textContent = element.getAttribute(`data-${language.toLowerCase()}`);
+      });
+    });
+  }
+
+  // Function to update dropdown options
+  function updateDropdown(language) {
+    const dropdown = document.getElementById(&#34;section-dropdown&#34;);
+    const contentMap =
+      language === &#34;EN&#34;
+        ? {
+            A: &#34;A. Vehicle Inspection Routine (RPK)&#34;,
+            B: &#34;B. Pre-Driving Routine (RSM)&#34;,
+            C: &#34;C. Hill Climb and Descent Test&#34;,
+            D: &#34;D. Side Parking&#34;,
+            E: &#34;E. Three-Point Turn&#34;,
+            F: &#34;F. ‘Z’ Turn&#34;,
+            G: &#34;G. ‘S’ Turn&#34;,
+            H: &#34;H. Ramp -AUTO&#34;,
+            I: &#34;I. Affective&#34;,
+            III: &#34;Section III (Road Driving Test)&#34;,
+          }
+        : {
+            A: &#34;A. Rutin Pemeriksaan Kenderaan (RPK)&#34;,
+            B: &#34;B. Rutin Sebelum Memandu (RSM)&#34;,
+            C: &#34;C. Ujian Mendaki dan Menuruni Bukit&#34;,
+            D: &#34;D. Memarkir Sisi&#34;,
+            E: &#34;E. Pergerakan Tiga Penjuru&#34;,
+            F: &#34;F. Pergerakan di Selekoh ‘Z’&#34;,
+            G: &#34;G. Pergerakan di Selekoh ‘S’&#34;,
+            H: &#34;H. Tanjakan (RAMP) -AUTO&#34;,
+            I: &#34;I. Afektif&#34;,
+            III: &#34;Bahagian III (Laluan Jalan Raya)&#34;,
+          };
+
+    // Clear existing options
+    dropdown.innerHTML = &#39;&lt;option value=&#34;&#34; selected&gt;Select a Section&lt;/option&gt;&#39;;
+
+    // Add new options
+    Object.keys(contentMap).forEach((key) =&gt; {
+      const option = document.createElement(&#34;option&#34;);
+      option.value = `section-${key.toLowerCase()}`;
+      option.textContent = contentMap[key];
+      dropdown.appendChild(option);
+    });
+  }
+
+  // Initialize language state
+  let currentLang = &#34;MY&#34;; // Default language
+  updateDropdown(currentLang); // Set initial dropdown options
+  updateSectionContent(currentLang); // Set initial section content
+
+  document.getElementById(&#34;toggle-language&#34;).addEventListener(&#34;click&#34;, function () {
+    currentLang = currentLang === &#34;EN&#34; ? &#34;MY&#34; : &#34;EN&#34;;
+    updateSectionContent(currentLang);
+    updateDropdown(currentLang);
+    this.textContent = currentLang === &#34;EN&#34; ? &#34;BM&#34; : &#34;English&#34;;
+  });
+  document.addEventListener(&#34;DOMContentLoaded&#34;, function () {
+    // Add click event listener to all table rows
+    document.querySelectorAll(&#34;tr&#34;).forEach(function (row) {
+      row.addEventListener(&#34;click&#34;, function () {
+        // Toggle highlight class on the clicked row
+        this.classList.toggle(&#34;highlight&#34;);
+      });
+    });
+  });
+&lt;/script&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Homepage</title>
+      <link>https://eadc723723.github.io/pages/homepage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eadc723723.github.io/pages/homepage/</guid>
+      
+      <description>&lt;style&gt;
+    .container {
+  padding-top: 1rem; /* Add 2rem padding above the container */
+}
+&lt;/style&gt;
+&lt;div class=&#34;page-content&#34;&gt;
+    &lt;div class=&#34;container&#34;&gt;
+      &lt;p&gt;&lt;em&gt;&#34;Welcome to ADC Driving Institute!&#34; &lt;/em&gt;&lt;/p&gt;
+      &lt;p&gt;&#34;Selamat datang ke Institut Memandu ADC!&#34;&lt;/p&gt;
+    &lt;/div&gt;
+
+  &lt;!-- Toggle Buttons --&gt;
+  &lt;div class=&#34;toggle-buttons&#34;&gt;
+    &lt;button id=&#34;toggle-d-da&#34; class=&#34;button is-primary toggle-btn&#34;&gt;D/DA&lt;/button&gt;
+    &lt;button id=&#34;toggle-b-b2&#34; class=&#34;button is-primary toggle-btn&#34;&gt;B/B2&lt;/button&gt;
+  &lt;/div&gt;
+
+  &lt;!-- D/DA Carousel --&gt;
+  &lt;div id=&#34;carousel-d-da&#34; class=&#34;carousel-wrapper&#34;&gt;
+
+    &lt;div class=&#34;carousel-nav&#34;&gt;
+      &lt;button id=&#34;prev-d-da&#34; class=&#34;prev-button&#34;&gt;&amp;lt;&lt;/button&gt;
+      &lt;div class=&#34;carousel-indicators&#34;&gt;
+        &lt;button class=&#34;indicator active&#34;&gt;&lt;/button&gt;
+        &lt;button class=&#34;indicator&#34;&gt;&lt;/button&gt;
+        &lt;button class=&#34;indicator&#34;&gt;&lt;/button&gt;
+      &lt;/div&gt;
+      &lt;button id=&#34;next-d-da&#34; class=&#34;next-button&#34;&gt;&amp;gt;&lt;/button&gt;
+    &lt;/div&gt;
+
+    &lt;main id=&#34;carousel-d-da-main&#34;&gt;
+      &lt;div class=&#34;item&#34; style=&#34;--offset: 1; background-color: #90f1ef&#34;&gt;
+        &lt;div class=&#34;step-label&#34;&gt;Step 1 (D/DA)&lt;/div&gt;
+        &lt;div class=&#34;content&#34;&gt;
+          &lt;p&gt;Kelas KPP 01 (6 jam)&lt;/p&gt;
+          &lt;p&gt;&lt;em&gt;KPP 01 Class (6 hrs)&lt;/em&gt;&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;item&#34; style=&#34;--offset: 2; background-color: #ff70a6&#34;&gt;
+        &lt;div class=&#34;step-label&#34;&gt;Step 2 (D/DA)&lt;/div&gt;
+        &lt;div class=&#34;content&#34;&gt;
+          &lt;p&gt;Ujian Berkomputer&lt;/p&gt;
+          &lt;p&gt;MARKAH LULUS: 42/50&lt;/p&gt;
+          &lt;p&gt;&lt;em&gt;Computer Test&lt;/em&gt;&lt;/p&gt;
+          &lt;p&gt;&lt;em&gt;PASSING MARK: 42/50&lt;/em&gt;&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;item&#34; style=&#34;--offset: 3; background-color: #ff9770&#34;&gt;
+        &lt;div class=&#34;step-label&#34;&gt;Step 3 (D/DA)&lt;/div&gt;
+        &lt;div class=&#34;content&#34;&gt;
+          &lt;p&gt;Prosess Lesen &#39;L&#39;&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
